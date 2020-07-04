@@ -1,0 +1,1 @@
+Assignments 1 and 2 consitute two part of a project on Passage Ranking Algorithms, encompassing a literature review, an implementation from scratch of basic algorithms such as BM25 and implementation of more sophisticated models, such as LAMBDAMart.
