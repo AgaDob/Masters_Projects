@@ -1,12 +1,35 @@
-Slides available: [here](https://docs.google.com/spreadsheets/d/1sJXd1Vkvk-YXXPUDlzlFLwRVaqmBrpAi9uwmjHtGI1I/edit#gid=0)
 
+
+Topics will include (but are not restricted to) machine translation, sequence tagging, constituent and dependency parsing, information extraction, semantics.
+NLP Tasks:
+
+    Language Models;
+    Machine Translation;
+    Text Classification;
+    Sequence Tagging;
+    Constituency Parsing;
+    Dependency Parsing;
+    Information Extraction;
+    Machine Comprehension.
+
+NLP and ML methods:
+
+    Encoder/Decoder Architectures;
+    Feature Engineering;
+    Deep Neural Networks;
+    RNNs, CNNs;
+    Attention;
+    Word Vectors;
+    Pretraining.
+
+Slides available: [here](https://docs.google.com/spreadsheets/d/1sJXd1Vkvk-YXXPUDlzlFLwRVaqmBrpAi9uwmjHtGI1I/edit#gid=0)
+____________________
+### Assignments
 Project 1: Introduction to NLP and AllenNLP
 
-Project 2: Group Project: 'Mitigating Gender Bias in Text Classification using a Graph Convolutional Network'
+Project 2: **Group Project: 'Mitigating Gender Bias in Text Classification using a Graph Convolutional Network'**
 [Medium Article](https://towardsdatascience.com/mitigating-gender-bias-in-occupation-classification-805edb389729?source=friends_link&sk=3966a9c714ffaee7dbc642075d8a18b8)
-______________
 
-### Mitigating gender bias in occupation classification of job biographies with graph convolutional network
 We use adapt the TextGCN by Yao et al. (2018) https://github.com/yao8839836/text_gcn to classify job biographies from the https://github.com/Microsoft/biosbias dataset. We investigate the mitigation of gender bias by comparing the predictions of our trained model for the original test dataset and for a transformation of our test dataset where explicit gender indicators are removed or "scrubbed" in line with De-Arteaga et al. (2019).
 
 Download data at https://drive.google.com/drive/folders/1h2oILArbrTsdN5VrdhWAKpzppwOXtyZO?usp=sharing .
