@@ -11,5 +11,4 @@ Content:
     Decision Making under uncertainty;
     Markov Decision Processes;
     Learning with Missing Data;
-    Approximate Inference using Sampling;
-    If time permits we will also cover some deterministic approximate inference.
+    Approximate Inference using Sampling.
